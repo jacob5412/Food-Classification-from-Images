@@ -1,6 +1,6 @@
-# Food-Classification-from-Images-Using-Convolutional-Neural-Networks
+# Food Image Classification using CNNs
 
-![GUI](https://raw.githubusercontent.com/Kemanth/Food-Classification-from-Images-Using-Convolutional-Neural-Networks/master/screenshot.PNG)
+![GUI](https://github.com/jacobjohn2016/Food-Classification-from-Images/raw/master/screenshot.PNG)
 
 
 ## Original Author
